@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Condemnation of the cheating Popish priest: or, A brief account of the tryal of Father Lewis, the pretended bishop of Landaff, at the last assizes at Monmouth, March 28. Who lately cheated a poor woman of 15 l. and got a warrant of attorney to confess judgement against her for 15 l. more; on pretence of praying her fathers soul out of purgatory. : With the condemnation of another Popish priest at Gloucester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80304</idno>
+            <idno type="STC">Wing C5721</idno>
+            <idno type="STC">ESTC R233556</idno>
+            <idno type="EEBO-CITATION">45578278</idno>
+            <idno type="OCLC">ocm 45578278</idno>
+            <idno type="VID">172218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2619:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Condemnation of the cheating Popish priest: or, A brief account of the tryal of Father Lewis, the pretended bishop of Landaff, at the last assizes at Monmouth, March 28. Who lately cheated a poor woman of 15 l. and got a warrant of attorney to confess judgement against her for 15 l. more; on pretence of praying her fathers soul out of purgatory. : With the condemnation of another Popish priest at Gloucester.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, April 7, 1679."</note>
+                  <note>Reproduction of original in the National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Catholic Church --  Clergy.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172218:1"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:172218:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE Condemnation of the Cheating POPISH PRIEST: OR, A brief Account of the TRYAL OF Father Lewis, The pretended Biſhop of <hi>Landaff,</hi> At the laſt Aſſizes at <hi>Monmouth, March</hi> 28.</p>
+            <p>Who lately Cheated a poor woman of 15 <hi>l.</hi> and got a Warrant of Attorney to Confeſs Judge<g ref="char:EOLhyphen"/>ment againſt her for 15 <hi>l.</hi> more; on pre<g ref="char:EOLhyphen"/>tence of Praying her Fathers Soul out of PURGATORY.</p>
+            <p>WITH The Condemnation of another POPISH PRIEST at <hi>Glouceſter.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>And through <hi>Covetouſneſs</hi> ſhall they with <hi>feigned</hi> words make <hi>Merchandiſe</hi> of you, whoſe Judgment now of a long time lin<g ref="char:EOLhyphen"/>gereth not, and their <hi>Damnation</hi> ſleepeth not,</hi>
+               </p>
+               <bibl>2 Pet. 2, 3.</bibl>
+            </q>
+            <p>LICENSED, <hi>April</hi> 7. 1679.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172218:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="3" facs="tcp:172218:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>The CONDEMNATION of the Cheating POPISH PRIEST.</head>
+            <p>THe Two main Hinges that ſupport Popery, or the Poles on which it turns, are <hi>Ignorance</hi> in their Com<g ref="char:EOLhyphen"/>mon People, and wicked <hi>Craft</hi> in their Prieſts, and other Guides that call themſelves <hi>Religious:</hi> Nor is it any difficult taſk to demonſtrate, That <hi>every one</hi> of thoſe Inno<g ref="char:EOLhyphen"/>vations wherewith they have Corrupted the an<g ref="char:EOLhyphen"/>cient Faith, and wherein they differ from the Pro<g ref="char:EOLhyphen"/>teſtants, were at firſt hatcht, and ſtill are continued, out of ſiniſter Reſpects, either to <hi>Pride</hi> or <hi>Cove<g ref="char:EOLhyphen"/>touſneſs;</hi> but I ſhall at this time inſtance but in one, as moſt pertinent to our Subject, <hi>viz.</hi> Their Fable of <hi>Purgatory,</hi> and the fraudulent devices depending thereon. What vaſt ſums of Money have been drain'd, or rather forcibly ſqueez'd out of peoples pockets on that account, for Pardons, Indulgences, Maſſes ſatisfactory, Trentals, Anniver<g ref="char:EOLhyphen"/>ſaries, Obits, Requiems, Dirge's Placebo's, Tapers, and ſuch-like. Trumperies, by the wheadling Arts of Purſe-milking Prieſts and Romiſh Locuſts, is not ſo eaſie to be imagined, as intollerable to be born withal or endured. Nay, ſo exceſſively gree<g ref="char:EOLhyphen"/>dy
+<pb n="4" facs="tcp:172218:3"/>
+               <!-- PDF PAGE 51 -->have theſe Spiritual Vultures (that prey upon departed Souls, as others on dead Carcaſſes) been in their Exactions, that they have ſtudied the baſeſt and moſt indirect Courſes in the world, to gratifie their rapacious deſires; of which we have a mul<g ref="char:EOLhyphen"/>titude of Examples in Hiſtory, but none more arch and fraudulent, than that notorious prank acted very lately near <hi>Herefordſhire,</hi> by a Ghoſtly Cheat called Father <hi>Lewis,</hi> and by the Popes Authority, ſtiling and pretending himſelf, The Biſhop of <hi>Lan<g ref="char:EOLhyphen"/>daff</hi> in <hi>Wales;</hi> concerning whom, there was in <hi>February</hi> laſt publiſhed a Narrative, annext to the Diſcovery of a Colledge of Jeſuits at <hi>Come</hi> in the ſaid County of <hi>Hereford,</hi> (a Book that very well deſerves the Reading;) from whom I ſhall take leave to give a ſhort Breviat of the matter of Fact, becauſe otherwiſe the Reader cannot well appre<g ref="char:EOLhyphen"/>hend the following Account of that Impoſtors Tryal.</p>
+            <p>This Father <hi>Lewis</hi> being one of the Jeſuits of the before-mentioned Colledge at <hi>Come,</hi> and ſkul<g ref="char:EOLhyphen"/>king up and down amongſt Popiſh Families in that Neighbourhood, the Father of a poor ſeduced woman (that was a Papiſt) happening to die about half a year ſince, the Daughter being very igno<g ref="char:EOLhyphen"/>rantly devout, but of a very good nature, having oft heard the frightful ſtories of the Torments en<g ref="char:EOLhyphen"/>dured in Purgatory, diſmally ſet forth by the Prieſts; and fearing by his diſſolute life, that her Father might be dropt in there, (for dying however a true Roman Gatholick, ſhe thought there was no fear
+<pb n="5" facs="tcp:172218:3"/>
+               <!-- PDF PAGE 51 -->of any worſe matter) ſhe applied her ſelf to this good Father, intreating his Prayers and Aſſiſtance to deliver her dear Fathers Soul out of thoſe Tor<g ref="char:EOLhyphen"/>tures. He received the Propoſal with the right Wheadles of a Popiſh Trappan; and after ſeveral preparatory diſcourſes, ſaid it might be done, but would be very chargeable: For which he gave her divers notable reaſons; and after diligent counting up particulars, conceiv'd it could not be undertaken under 100 <hi>l.</hi> The poor woman <hi>higgled</hi> with him as well as ſhe could, and got ſeveral abatements; but finding his demands ſtill exceed her ability, very truely, and with tears, aſſured him, <hi>That</hi> 35 l. <hi>was all that ſhe had in the world:</hi> Whereupon at laſt, becauſe it was an Act of Charity, he would take but 30 <hi>l.</hi> of her; and ſo they came to a Bargain, taking not onely a Bond, but a Judgment thereupon for the money, promiſing to do the Feat in ſix weeks time, and then the money to be paid without fur<g ref="char:EOLhyphen"/>ther delay. Accordingly that time being up, he ſends for his Ghoſtly Child, and with ſolemn pro<g ref="char:EOLhyphen"/>teſtations, aſſur'd her, her Fathers Soul was <hi>Infalli<g ref="char:EOLhyphen"/>bly in Heaven.</hi> The woman was mightily pleas'd and overjoy'd, but Father <hi>Lewis</hi> not ſo; when deman<g ref="char:EOLhyphen"/>ding the Pence, ſhe told him, that ſhe could not poſſibly get in her money, and therefore had brought him but 10 <hi>l.</hi> at preſent. This ſo nettled him, that he threatned to Excommunicate her, and alſo fling her into Goal, <hi>&amp;c.</hi> yet at laſt took the 10 <hi>l.</hi> in part, and gave time for the reſt; 5 <hi>l.</hi> of which ſhe made ſhift to pay ſoon after.</p>
+            <pb n="6" facs="tcp:172218:4"/>
+            <!-- PDF PAGE 52 -->
+            <p>But afterwards happening to marry a Proteſtant, and he inquiring what was become of her money, after ſome importunity, ſhe declar'd the whole In<g ref="char:EOLhyphen"/>treague, and that ſhe was 15 <hi>l.</hi> in debt to him ſtill. The Huſband and ſome friends took pains to con<g ref="char:EOLhyphen"/>vince her of the abſurdity and knavery of ſuch pretences, together with the falſity of other Popiſh Doctrines: whereupon ſhe was brought over to the Proteſtant Church; and a Magiſtrate having exa<g ref="char:EOLhyphen"/>mined her upon Oath, ſearch was made for Father <hi>Lewis,</hi> who by her directions was found lurking in a cunning, though now no longer ſafe, Sanctuary, con<g ref="char:EOLhyphen"/>triv'd under ground in a poor Cottage, and thence committed to <hi>Monmouth</hi>-Goal.</p>
+            <p>And now this Lent Aſſizes there coming on, he was brought to his Tryal, being Indicted for Trea<g ref="char:EOLhyphen"/>ſon, for that having received orders from the pretended Authority of the See of <hi>Rome,</hi> he yet came over into, and continued in His Majeſties Dominions, contrary to the Statute in that caſe made and provided. There was very full and ſufficient Evidence againſt him; but 'tis ſaid, ei<g ref="char:EOLhyphen"/>ther through negligence or deſigne, ſeveral Pa<g ref="char:EOLhyphen"/>piſts or ſuch reputed ad been returned both on the grand Inqueſt, and on the Jury of Life and Death. However, notice being given thereof to the Judge, his Lordſhip preſently diſcharged them of their ſervice, and cauſed other Gentlemen to be impannelled. Father <hi>Lewis</hi> made a great and long argument in endeavouring to diſprove ſome petty circumſtances in the Book that was writ<g ref="char:EOLhyphen"/>ten
+<pb n="7" facs="tcp:172218:4"/>
+               <!-- PDF PAGE 52 -->concerning him, and alleadged that the ſame and the Evidence did differ in ſome particulars, though as to the material points of the ſtory he could not deny but they agreed; and although the Court told him that it ſignified nothing to make his objections to the Book, it being no E<g ref="char:EOLhyphen"/>vidence againſt him, yet he would proceed and make an end of his tedious ſpeech to that pur<g ref="char:EOLhyphen"/>poſe. And as to the Evidence that was given a<g ref="char:EOLhyphen"/>gainſt him, he with the uſual Confidence, Impu<g ref="char:EOLhyphen"/>dence, and Obſtinacy of thoſe hypocritical Impo<g ref="char:EOLhyphen"/>ſtors, poſitively denied it with may ſolemn pro<g ref="char:EOLhyphen"/>teſtations, making this plea for himſelf; 1. That <hi>the Evidence did not prove him a Prieſt, becauſe none could directly ſay that they ſaw him receive Orders from the See of</hi> Rome. But if that ſhould be admitted, and their exerciſing prieſtly Fun<g ref="char:EOLhyphen"/>ctions, as ſaying Maſs, conſecrating the Euchariſt, taking Confeſſions, preſcribing Penances, giving Abſolutions, and the like acts, which none but a Prieſt may perform, and this at ſeveral times and places amongſt the moſt zealous and intelligent Roman Families. If theſe acts, I ſay, ſhould not be a concluding proof, then that neceſſary Law would be totally eluded, and it would be impoſ<g ref="char:EOLhyphen"/>ſible to convict a popiſh Prieſt. The Ghoſtly Father urged this point further, inſiſting', <hi>That if his Prieſthood were not proved, he then did ap<g ref="char:EOLhyphen"/>pear but as a Cheat, and ſo ought not to be convi<g ref="char:EOLhyphen"/>cted as a Prieſt.</hi> It ſeems he was content to be a Lay-cheat, but very loth for the honour of the
+<pb n="8" facs="tcp:172218:5"/>
+               <!-- PDF PAGE 53 -->Brotherhood to be known to be a cheat Eccleſi<g ref="char:EOLhyphen"/>aſtical. He alſo ignorantly alleadged that the Act wherein he ſtood indicted was repealed by a ſuc<g ref="char:EOLhyphen"/>ceeding Act, the penalty of which was onely fine and impriſonment: but all theſe pleas being in themſelves frivolous, and the laſt falſe, they were over-ruled by the Court, and being fairly convi<g ref="char:EOLhyphen"/>cted on full evidence by an impartial Jury, he re<g ref="char:EOLhyphen"/>ceived Sentence; but for the preſent Execution was ſuſpended till further order.</p>
+            <p>Another Prieſt was likewiſe Convicted at <hi>Glouceſter,</hi> a<g ref="char:EOLhyphen"/>gainſt whom there was poſitive Evidence that he in his prieſtly Habits did adminiſter the Sacraments, took Confeſ<g ref="char:EOLhyphen"/>ſions, gave Diſpenſations and Pardons, undertook to pray the Souls of perſons deceaſed out of Purgatory; but whe<g ref="char:EOLhyphen"/>ther on cheaper or dearer terms than Father <hi>Lewis</hi> I cannot ſay. But that which was moſt remarkable in his Tryal, as we hear, is, that ſeveral perſons lately Romaniſts, who had taken the Oaths and ſeemed Converts, did yet deny that he was a Prieſt, and that they ever received abſolution of Sins or the Sacrament from him, though the contrary was by others ſufficiently proved. Which if ſo, we may thence judge at the reality of ſuch peoples pretences to diſown the Church of <hi>Rome,</hi> when at the ſame time they count the ſaving of a raſcally Prieſt from Juſtice ſuch a meritorious work, as to over-ballance and acquit them from the guilt of horrid per<g ref="char:EOLhyphen"/>jury. But of theſe folks honeſtly, and the aſſeverations of traiterous popiſh Prieſts, when at their Tryals or Execu<g ref="char:EOLhyphen"/>tions they would outbrazen their guilt with pretenſions of innocence, we may take honeſt <hi>Luther</hi>'s advice, <hi>Nemo eorum obteſtationibus &amp; jaculationibus quicquam credat, namees Men<g ref="char:EOLhyphen"/>tiri &amp; dupliciter Mentiri Certiſſimum eſt.</hi> Let no man he ſo weak as to believe their proteſtations and vaunts; for it is moſt certain they lye, and that moſt loudly and abominably. <hi>Luth.</hi> Defenſ. verb. Coenae, Fol. 381.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172218:5"/>
+            <!-- PDF PAGE 53 -->
+            <pb facs="tcp:172218:6"/>
+            <!-- PDF PAGE 54 -->
+            <pb facs="tcp:172218:6"/>
+            <!-- PDF PAGE 54 -->
+         </div>
+      </body>
+   </text>
+</TEI>
